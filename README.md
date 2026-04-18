@@ -8,7 +8,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 ## I'm proficient in …
 
-**Languages :** Python (🥰) · TypeScript · Rust (🥰) · Swift · Zig · C · Bash/Zsh
+**Languages :** Python (🥰) · TypeScript · Rust (🥰) · Swift · Zig · C · Java/Kotlin *(minecraft modding mostly)* · Bash/Zsh
 
 **Frontend :** React · Vue · Svelte · Next.js · Nuxt · SvelteKit
 
