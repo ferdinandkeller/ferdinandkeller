@@ -14,7 +14,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Desktop :** Tauri · Electron
 
-**AI / ML :** PyTorch · LangChain · RAG in general · Fine-tuning (LoRA / QLoRA) · Llamacpp · …
+**AI / ML :** PyTorch · LangChain · LiveKit · RAG in general · Fine-tuning (LoRA / QLoRA) · Llamacpp · …
 
 **Databases :** PostgreSQL (with citus) · MongoDB · SQLite · Redis/Valkey · ChromaDB · Memcached · Kafka
 
