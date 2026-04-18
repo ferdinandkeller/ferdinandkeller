@@ -8,7 +8,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 ## I'm proficient in …
 
-**Languages :** Python (🥰) · TypeScript · Rust (🥰) · Swift · Zig · C · Java/Kotlin *(minecraft modding mostly)* · Bash/Zsh
+**Languages :** Python *(🥰)* · TypeScript · Rust *(🥰)* · Swift · Zig · C · Java/Kotlin *(minecraft modding mostly)* · Bash/Zsh
 
 **Frontend :** React · Vue · Svelte · Next.js · Nuxt · SvelteKit
 
@@ -18,13 +18,13 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Databases :** PostgreSQL *(with citus)* · MongoDB · SQLite · Redis/Valkey · ChromaDB · Memcached · Kafka
 
-**Infrastructure & Tooling :** Docker · Kubernetes · Talos Linux · Terraform/OpenTofu *(pulumi is better)* · Pulumi · Ansible · Helm (👎👎👎) · Kustomize · ArgoCD · GitHub Actions · Nix · Linux networking
+**Infrastructure & Tooling :** Docker · Kubernetes · Talos Linux · Terraform/OpenTofu *(pulumi is better)* · Pulumi · Ansible · Helm *(👎👎👎)* · Kustomize · ArgoCD · GitHub Actions · Nix · Linux networking
 
-**Telemetry :** OpenTelemetry · LGTM Stack *(Alloy · Loki · Mimir · Tempo · Grafana)* · ELK Stack (👎)
+**Telemetry :** OpenTelemetry · LGTM Stack *(Alloy · Loki · Mimir · Tempo · Grafana)* · ELK Stack *(👎)*
 
 **Cloud :** AWS · GCP · OVH · …
 
-**Generic :** Linux · Git · Jujutsu (🥰) · …
+**Generic :** Linux · Git · Jujutsu *(🥰🥰)* · …
 
 ## Contact Me
 
