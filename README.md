@@ -10,7 +10,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Languages :** Python (🥰) · TypeScript · Rust (🥰) · Swift · Zig · C · Bash/Zsh
 
-**Frontend :** React · Vue · Svelte · Next.js · Nuxt · SvelteKit · WASM
+**Frontend :** React · Vue · Svelte · Next.js · Nuxt · SvelteKit
 
 **Desktop :** Tauri · Electron
 
