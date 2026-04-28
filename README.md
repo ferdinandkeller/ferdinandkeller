@@ -1,4 +1,4 @@
-# Hey, I’m Ferdinand 👋
+## Hey, I’m Ferdinand 👋
 
 I am a Data & AI Engineer based in Montpellier, France.
 
@@ -6,7 +6,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 [Check out my website !](https://ferdinandkeller.dev)
 
-## I'm proficient in …
+### I'm proficient in …
 
 **Languages :** Python *(🥰)* · TypeScript · Rust *(🥰)* · Swift · Zig · C · Java/Kotlin *(minecraft modding mostly)* · Bash/Zsh
 
@@ -26,6 +26,6 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Generic :** Linux · Git · Jujutsu *(🥰🥰)* · …
 
-## Contact Me
+### Contact Me
 
 I am always available at [ferdinand.keller@proton.me](mailto:ferdinand.keller@proton.me).
