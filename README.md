@@ -12,7 +12,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Frontend :** React · Vue · Svelte · Next.js · Nuxt · SvelteKit
 
-**Desktop :** Tauri · Electron
+**Desktop :** SwiftUI *(🥰)* · Tauri · Electron
 
 **AI / ML :** PyTorch · LangChain · LiveKit · RAG in general · Fine-tuning (LoRA / QLoRA) · Llamacpp · …
 
@@ -22,7 +22,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Telemetry :** OpenTelemetry · LGTM Stack *(Alloy · Loki · Mimir · Tempo · Grafana)* · ELK Stack *(👎)*
 
-**Cloud :** AWS · GCP · OVH · …
+**Cloud :** AWS · GCP · Scaleway · OVH · …
 
 **Generic :** Linux · Git · Jujutsu *(🥰🥰)* · …
 
