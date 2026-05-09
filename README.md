@@ -26,7 +26,7 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Generic :** Linux · Git · Jujutsu *(🥰🥰)* · Stack/Heap *(optimization in general)* · Networking · …
 
-**Math :** CPGE MP + École d'ingénieur section Data/IA 🙃
+**Math :** CPGE MP + École d'ingénieur section Data/IA ([check my linkedin 🙃](https://www.linkedin.com/in/ferdinandkeller))
 
 ### Contact Me
 
