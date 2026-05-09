@@ -24,7 +24,9 @@ I build data pipelines, deploy ML models, and manage production infrastructure. 
 
 **Cloud :** AWS · GCP · Scaleway · OVH · …
 
-**Generic :** Linux · Git · Jujutsu *(🥰🥰)* · …
+**Generic :** Linux · Git · Jujutsu *(🥰🥰)* · Stack/Heap *(optimization in general)* · Networking · …
+
+**Math :** CPGE MP + École d'ingénieur section Data/IA 🙃
 
 ### Contact Me
 
