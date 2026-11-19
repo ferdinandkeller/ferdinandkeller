@@ -10,7 +10,7 @@ I like writing fast, reliable software — mostly in Rust and Python, but I’m 
 
 ### I'm proficient in …
 
-**Languages :** Python *(🥰)* · TypeScript · Rust *(🥰)* · Swift · Zig · C · Java/Kotlin *(minecraft modding mostly)* · Bash/Zsh
+**Languages :** Python *(🥰)* · TypeScript · Rust *(🥰)* · C · Swift · Zig · Java/Kotlin *(minecraft modding mostly)* · Bash/Zsh
 
 **Frontend :** React · Vue · Svelte · Next.js · Nuxt · SvelteKit
 
