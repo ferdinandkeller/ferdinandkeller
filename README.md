@@ -4,7 +4,7 @@ I am a Data & AI Engineer based in Montpellier, France.
 
 I build data pipelines, deploy ML models, and manage production infrastructure. GDPR/RGPD compliance is batteries-included: I'm comfortable designing systems that handle personal data lawfully.
 
-I like writing fast, reliable software — mostly in Rust and Python, but I’m comfortable across the stack.
+I like writing fast, reliable software. Mostly in Rust and Python, but I’m comfortable across the stack.
 
 [Check out my website !](https://ferdinandkeller.dev)
 
