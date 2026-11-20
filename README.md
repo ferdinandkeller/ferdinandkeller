@@ -1,10 +1,10 @@
 ## Hey, I’m Ferdinand 👋
 
-I am a Data & AI Engineer based in Montpellier, France.
+**Data & AI Engineer** based in Montpellier, France.
 
 I build data pipelines, deploy ML models, and manage production infrastructures. GDPR/RGPD compliance is always a top priority : I'm very comfortable designing systems that handle personal data lawfully and securely.
 
-I write fast and reliable software. Mostly in Rust and Python, but I’m comfortable across the stack.
+I build fast and reliable software. I’m comfortable across the stack, and I use modern AI tooling to move fast without lowering the bar.
 
 [Check out my website !](https://ferdinandkeller.dev)
 
